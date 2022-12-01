@@ -61,7 +61,7 @@ function nextSequence() {
 
     // $("#" + randomChosenColour).fadeIn().fadeOut().fadeIn();
     animatePress(randomChosenColor);
-        playSound(randomChosenColor);
+    playSound(randomChosenColor);
 
 }
 
